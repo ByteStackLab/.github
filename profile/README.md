@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bytestacklab-light-360x96.png" alt="ByteStackLab" width="320" />
+<img src="https://bytestacklab.com/images/bytestacklab-light-360x96.png" alt="ByteStackLab" width="320" />
 
 ### Software built to ship — web, mobile, SaaS, AI and cloud.
 
